@@ -1,0 +1,41 @@
+   0 df -h
+   1 cal -y 2023
+   2 ls .la
+   3 ls -la
+   4 clear
+   5 mkdir -p /opt/test/logs/linux
+   6 cd /opt/test/logs/linux
+   7 touch logs.txt
+   8 ls -l
+   9 nano script.sh
+  10 ls -l
+  11 chmod u+x logs.txt
+  12 ./script.sh
+  13 chmod u+x script.sh
+  14 ls -l
+  15 chmod u-x logs.txt
+  16 ls -l
+  17 ./script.sh
+  18 nano script.sh
+  19 cat logs.txt
+  20 ./script.sh
+  21 nano script.sh
+  22 ./script.sh
+  23 nano script.sh
+  24 ./script.sh
+  25 cat logs.txt
+  26 touch logs.txt
+  27 cat 1.txt
+  28 cat logs.txt
+  29 echo > logs.txt
+  30 cat logs.txt
+  31 ./script.sh
+  32 cat logs.txt
+  33 clear
+  34 cat logs.txt
+  35 df -h
+  36 ls -l
+  37 file_export logs.txt
+  38 export_file logs.txt
+  39 export_file script.sh
+  40 history > h_2808.txt

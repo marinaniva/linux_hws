@@ -1,0 +1,23 @@
+
+Some tests:
+
+- Compile hello.c with gcc (or tcc):
+
+  gcc hello.c -o hello
+  ./hello
+
+- Run QuickJS:
+
+  qjs hello.js
+
+- Run python:
+
+  python3 bench.py
+test
+user2:*:1000:
+cal -y 2023
+Filesystem
+/dev/root
+devtmpfs
+tmpfs
+none
