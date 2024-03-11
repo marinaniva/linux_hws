@@ -1,0 +1,23 @@
+   0 whoami
+   1 pwd
+   2 cd /home
+   3 mkdir animals
+   4 cd animals
+   5 mkdir dogs cats fish
+   6 touch dogs/pluto cats/garfield fish/nemo
+   7 tree
+   8 ls /
+   9 touch /tmp/adam
+  10 ls /tmp
+  11 cd /home
+  12 mkdir humans
+  13 cp /tmp/adam humans
+  14 tree
+  15 touch /tmp/evA
+  16 mv /tmp/evA /opt/eva
+  17 mv /opt/eva /opt/eve
+  18 mv /opt/eve humans
+  19 ls /tmp
+  20 ls humans
+  21 tree
+  22 history > history_050324.txt
