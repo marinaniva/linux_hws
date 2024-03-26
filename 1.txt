@@ -1,0 +1,9 @@
+03/26/24
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 4.9G      2.3G      2.6G  47% /
+   2 cat 1.txt
+   3 cat /proc/cpuinfo | grep vendor
+   4 cat /proc/cpuinfo 
+   5 cat /proc/cpuinfo | grep id
+   6 history | tail -5 >> 1.txt
+vendor_id	: AuthenticX86

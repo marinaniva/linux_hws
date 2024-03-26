@@ -1,0 +1,17 @@
+   0 date +'%D' > 1.txt
+   1 df -h / >> 1.txt
+   2 cat 1.txt
+   3 cat /proc/cpuinfo
+   4 history | tail -5 >> 1.txt
+   5 cat 1.txt
+   6 cat /proc/cpuinfo | grep vendor >> 1.txt
+   7 vi 1.txt
+   8 cat 1.txt
+   9 ps > ps.txt
+  10 wl -l ps.txt
+  11 wc -l ps.txt
+  12 echo '31' >> 1.txt
+  13 cat 1.txt
+  14 history hhh.txt
+  15 export_file hhh.txt
+  16 history > hhh.txt
